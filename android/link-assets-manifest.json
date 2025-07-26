@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Sansita-Bold.ttf",
+      "sha1": "9d9810f8bccf70bc251886c24dbe31ba2f87725b"
+    },
+    {
+      "path": "assets/fonts/Sansita-ExtraBold.ttf",
+      "sha1": "a2c6ed0b847804610aca59fced94ce376d561377"
+    },
+    {
+      "path": "assets/fonts/Sansita-Regular.ttf",
+      "sha1": "3c93adde784b9d22edad31ed159dc43afc53c27d"
+    }
+  ]
+}
