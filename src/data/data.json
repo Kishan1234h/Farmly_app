@@ -1,0 +1,357 @@
+{
+  "stores": [
+    {
+      "id": "store_001",
+      "name": "green_valley_farms",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/mrill2b5sd2omwit8zxa",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/ybs8ivqkl33hwvxgugsl",
+      "description": "fresh_organic_vegetables_dairy",
+      "categories": ["Vegetables", "Dairy"],
+      "products": [
+        {
+          "id": "prod_001",
+          "name": "Carrot",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/eeafqzmc6tqorba7laq0",
+          "background_color": "#FFEFD5",
+          "price": "₹40 per kg",
+          "unit": "kg",
+          "base_price": 40,
+          "keyword": "vegetables"
+        },
+        {
+          "id": "prod_002",
+          "name": "Milk",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/tsi76aeswlv9ot5etbzx",
+          "background_color": "#FAFAD2",
+          "price": "₹50 per litre",
+          "unit": "Li",
+          "base_price": 50,
+          "keyword": "dairy"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_001",
+          "user": "user_001",
+          "rating": 4.5,
+          "comment": "Fresh and organic veggies!"
+        }
+      ]
+    },
+    {
+      "id": "store_002",
+      "name": "sunrise_organic_mart",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/pxrxcsnt6amf32rrufgi",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/zxydgbpezcio3ndujlw4",
+      "description": "quality_fruits_dairy",
+      "categories": ["Fruits", "Dairy"],
+      "products": [
+        {
+          "id": "prod_003",
+          "name": "Apple",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/prqvabgbuueecwngt867",
+          "background_color": "#FFFAF0",
+          "price": "₹150 per kg",
+          "unit": "kg",
+          "base_price": 150,
+          "keyword": "fruits"
+        },
+        {
+          "id": "prod_004",
+          "name": "Banana",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/nblr63ahonqu9haq4ie8",
+          "background_color": "#FFFACD",
+          "price": "₹5 per piece",
+          "unit": "Pi",
+          "base_price": 5,
+          "keyword": "fruits"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_002",
+          "user": "user_002",
+          "rating": 4.0,
+          "comment": "Good quality fruits!"
+        }
+      ]
+    },
+    {
+      "id": "store_003",
+      "name": "farm_fresh_baskets",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/mxrklzulkbxjutgmx6nw",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/gioyqpwio62inc9jmjnw",
+      "description": "farm_fresh_mix",
+      "categories": ["Vegetables", "Fruits", "Eggs"],
+      "products": [
+        {
+          "id": "prod_005",
+          "name": "Onion",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/ov31fes8bqukcdzff89n",
+          "background_color": "#FFE4B5",
+          "price": "₹30 per kg",
+          "unit": "kg",
+          "base_price": 30,
+          "keyword": "vegetables"
+        },
+        {
+          "id": "prod_006",
+          "name": "Eggs",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/qvp0pom5iwdqvjtjmnzj",
+          "background_color": "#FFF8DC",
+          "price": "₹6 per egg",
+          "unit": "pi",
+          "base_price": 6,
+          "keyword": "eggs"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_003",
+          "user": "user_003",
+          "rating": 4.3,
+          "comment": "Everything fresh and well packed!"
+        }
+      ]
+    },
+    {
+      "id": "store_004",
+      "name": "healthy_farm_hub",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/rkiijadfhqpxhgute7he",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/nlhfxngofaawlaojbmde",
+      "description": "daily_fresh_eggs_dairy",
+      "categories": ["Eggs", "Dairy"],
+      "products": [
+        {
+          "id": "prod_007",
+          "name": "Butter",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/cotstbuy0mxzrls0fg3e",
+          "background_color": "#FAF3E0",
+          "price": "₹120 per 500g",
+          "unit": "Gm",
+          "base_price": 120,
+          "keyword": "dairy"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_004",
+          "user": "user_004",
+          "rating": 4.8,
+          "comment": "Very fresh dairy products."
+        }
+      ]
+    },
+    {
+      "id": "store_005",
+      "name": "coastal_catch_mart",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/cb5oe4mbepfqrjbe34kd",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/dhsledxyj22nqthbrknq",
+      "description": "fresh_hygienic_seafood",
+      "categories": ["Fish"],
+      "products": [
+        {
+          "id": "prod_008",
+          "name": "Salmon",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/ghwxm43olz00vwikikb7",
+          "background_color": "#FFE4E1",
+          "price": "₹700 per kg",
+          "unit": "kg",
+          "base_price": 700,
+          "keyword": "fish"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_005",
+          "user": "user_005",
+          "rating": 4.6,
+          "comment": "Great quality seafood!"
+        }
+      ]
+    },
+    {
+      "id": "store_006",
+      "name": "village_mart_store",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/fav6leyydj1mrlaccrhl",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/zxdc52ypyagxmxwrw4kt",
+      "description": "fresh_organic_meat",
+      "categories": ["Meat"],
+      "products": [
+        {
+          "id": "prod_009",
+          "name": "Chicken",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/rr32bglg6c2xrofnj1gw",
+          "background_color": "#FFDAB9",
+          "price": "₹250 per kg",
+          "unit": "kg",
+          "base_price": 250,
+          "keyword": "meat"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_006",
+          "user": "user_006",
+          "rating": 4.7,
+          "comment": "Very tender and fresh meat!"
+        }
+      ]
+    },
+    {
+      "id": "store_007",
+      "name": "golden_harvest_farms",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/fosfx0tje1icat84td6q",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/liwcjyecd8hyhpg10yod",
+      "description": "premium_farm_produce",
+      "categories": ["Vegetables", "Fruits"],
+      "products": [
+        {
+          "id": "prod_010",
+          "name": "Pumpkin",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/tjlrozwersfqu7nhkwdv",
+          "background_color": "#FFDAB9",
+          "price": "₹20 per kg",
+          "unit": "kg",
+          "base_price": 20,
+          "keyword": "vegetables"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_007",
+          "user": "user_007",
+          "rating": 4.4,
+          "comment": "Great seasonal produce!"
+        }
+      ]
+    },
+    {
+      "id": "store_008",
+      "name": "fresh_delight",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/mtjyan0dl8gihfg9owrd",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/ah4svvmciwvxeyfkc0qo",
+      "description": "best_dairy_egg_products",
+      "categories": ["Dairy", "Eggs"],
+      "products": [
+        {
+          "id": "prod_011",
+          "name": "Paneer",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/mwyggncnta8ahf3cg61y",
+          "background_color": "#FFFDD0",
+          "price": "₹200 per kg",
+          "unit": "kg",
+          "base_price": 200,
+          "keyword": "dairy"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_008",
+          "user": "user_008",
+          "rating": 4.9,
+          "comment": "Super fresh paneer!"
+        }
+      ]
+    },
+    {
+      "id": "store_009",
+      "name": "blue_ocean_fishers",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/kbvwzzi0jzroggoxygba",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/p1dcb8x8e8xc5o8rqlxr",
+      "description": "sustainable_seafood",
+      "categories": ["Fish"],
+      "products": [
+        {
+          "id": "prod_012",
+          "name": "Tuna",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/ghwxm43olz00vwikikb7",
+          "background_color": "#ADD8E6",
+          "price": "₹500 per kg",
+          "unit": "kg",
+          "base_price": 500,
+          "keyword": "fish"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_009",
+          "user": "user_009",
+          "rating": 4.5,
+          "comment": "Very tasty fish!"
+        }
+      ]
+    },
+    {
+      "id": "store_010",
+      "name": "farm_table",
+      "logo": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/stores/mhlgnbovygacrjwnznrz",
+      "banner": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/banner/faumrsfgdefeonesnvle",
+      "description": "farm_fresh_delivery",
+      "categories": ["Vegetables", "Dairy"],
+      "products": [
+        {
+          "id": "prod_013",
+          "name": "Cauliflower",
+          "image": "https://res.cloudinary.com/dtyu8gwf9/image/upload/f_auto,q_auto/v1/Farmly/items/ofxru4gclt6fyt1xt2ls",
+          "background_color": "#F5F5DC",
+          "price": "₹40 per kg",
+          "unit": "kg",
+          "base_price": 40,
+          "keyword": "vegetables"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev_010",
+          "user": "user_010",
+          "rating": 4.2,
+          "comment": "Really fresh veggies!"
+        }
+      ]
+    }
+  ],
+
+  "Categories": [
+    {
+      "name": "dairy",
+      "icon": "🧀",
+      "background_color": "#FFD580"
+    },
+    {
+      "name": "fruits",
+      "icon": "🍎",
+      "background_color": "#FF9999"
+    },
+    {
+      "name": "vegetables",
+      "icon": "🥦",
+      "background_color": "#80C980"
+    },
+    {
+      "name": "meat",
+      "icon": "🍖",
+      "background_color": "#E57373"
+    },
+    {
+      "name": "fish",
+      "icon": "🐟",
+      "background_color": "#80BFFF"
+    },
+    {
+      "name": "grains",
+      "icon": "🌾",
+      "background_color": "#E6C68E"
+    },
+    {
+      "name": "bakery",
+      "icon": "🍞",
+      "background_color": "#D2A679"
+    },
+    {
+      "name": "beverages",
+      "icon": "🥤",
+      "background_color": "#C299E5"
+    }
+  ]
+}
